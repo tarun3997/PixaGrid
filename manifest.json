@@ -1,6 +1,6 @@
 {
-    "name": "PixaGrid",
-    "short_name": "PixaGrid",
+    "name": "pixa_grid",
+    "short_name": "pixa_grid",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
